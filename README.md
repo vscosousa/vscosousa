@@ -52,8 +52,3 @@
 ![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
 
 ###
-  </a>
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=4ea04b&bar_color_cover=false)" >
-    </a>
-
-###
