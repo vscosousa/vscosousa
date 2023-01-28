@@ -58,17 +58,3 @@
 <img src="https://raw.githubusercontent.com/vscosousa/vscosousa/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/vscosousa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vscosousa/count.svg?"  />
-</div>
-
-###
