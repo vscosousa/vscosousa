@@ -47,14 +47,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vscosousa/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 ![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
