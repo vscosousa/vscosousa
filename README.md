@@ -1,14 +1,10 @@
-<img align="left" height="88" src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif"  />
-
-###
-
 <h2 align="left">Hi 👋! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=vscosousa" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dark&hide_border=false&username=vscosousa" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vscosousa" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vscosousa" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,5 +52,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vscosousa/vscosousa/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vscosousa/count.svg?"  />
+</div>
 
 ###
