@@ -53,6 +53,16 @@
   
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
 
+### 🖥️ Some of my friends
+
+</a>
+  <a href="https://github.com/ReyFow" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="reyfow profile"  />
+  
+  </a>
+  <a href="https://github.com/joaopinto15" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile"  />
+
 ### ☑️ Contributions
   
 ![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
