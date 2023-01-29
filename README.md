@@ -1,3 +1,4 @@
+<div align="center">
 <h2 align="left">Hi 👋! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
 
 ### 📊 Stats:
