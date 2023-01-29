@@ -52,3 +52,7 @@
 ![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
+[![Spotify](https://novatorem-6rvz26gkx-vscosousa.vercel.app/api/spotify)](https://open.spotify.com/user/zoz399pn4owmmps88h8y03qpl)
+
+###
