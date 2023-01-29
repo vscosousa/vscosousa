@@ -43,7 +43,10 @@
   <a href="https://www.facebook.com/vscosousa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-
+   </a>
+  <a href="https://open.spotify.com/user/zoz399pn4owmmps88h8y03qpl?si=d7a2401e230946d7" target="_blank">
+    <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg' alt='spotify' height='40'>
+ </a>
 <br clear="both">
 
 ### 🎶 Currently Playing
