@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="left">Hi 👋! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
 
-### 📊 Stats:
+### 📊 Stats
 
 <a href="https://github.com/vscosousa/vscosousa">
   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="joaopinto15's Stats" />
@@ -10,7 +10,7 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscosousa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-### 🖥️ Skills:
+### 🖥️ Skills
   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="42" alt="xd logo"  />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo"  />
 
-### 📧 Contacts:
+### 📧 Contacts
 
   </a>
   <a href="mailto:vscosousa@gmail.com" target="_blank">
@@ -46,11 +46,11 @@
 
 <br clear="both">
 
-### 🎶 Currently Playing:
+### 🎶 Currently Playing
   
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
 
-### ☑️ Contributions:
+### ☑️ Contributions
   
 ![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
 
