@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="left">Hi 👋! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
+<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35">! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
 
 ### 📊 Stats
 
