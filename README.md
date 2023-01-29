@@ -49,7 +49,7 @@
  </a>
 <br clear="both">
 
-### 🖥️ Some of my friends
+### 💩 Some of my friends
 
 </a>
   <a href="https://github.com/ReyFow" target="_blank">
