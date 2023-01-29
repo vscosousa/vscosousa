@@ -45,7 +45,7 @@
   </a>
    </a>
   <a href="https://open.spotify.com/user/zoz399pn4owmmps88h8y03qpl?si=d7a2401e230946d7" target="_blank">
-    <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg' alt='spotify' height='40'>
+    <img src='https://https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png?v=637903118310000000' alt='spotify' width="52" height='40'>
  </a>
 <br clear="both">
 
