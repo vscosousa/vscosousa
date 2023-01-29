@@ -58,3 +58,5 @@
 ![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
+</div>
