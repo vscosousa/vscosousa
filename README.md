@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
 
-### Stats:
+### 📊 Stats:
 
 <a href="https://github.com/vscosousa/vscosousa">
   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="joaopinto15's Stats" />
@@ -9,7 +9,7 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscosousa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-### Skills:
+### 🖥️ Skills:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="42" alt="xd logo"  />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo"  />
 </div>
 
-### Contacts:
+### 📧 Contacts:
 
 <div align="center">
   </a>
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-### Currently Playing:
+### 🎶 Currently Playing:
 
 <div align="center">
   
