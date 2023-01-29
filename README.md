@@ -52,11 +52,14 @@
 
 </a>
   <a href="https://github.com/ReyFow" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="reyfow profile"  />
+    <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Rafael profile"  />
   
   </a>
   <a href="https://github.com/joaopinto15" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile"  />
+    <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="Joao profile"  />
+  </a>
+    <a href="https://github.com/LeinBurst" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile"  />
 
 ### 🎶 Currently Playing
   
