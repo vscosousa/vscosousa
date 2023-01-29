@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo"  />
 </div>
 
-### Contacts
+### Contacts:
 
 <div align="center">
   </a>
