@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="left">Hi <img src="https://media3.giphy.com/media/Bu342ERrfYxzTjZhZB/giphy.gif?cid=790b761191a3a94c3de0a432c6347ed290f6dbe2f9356ec9&rid=giphy.gif&ct=s" width="35">! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal</h2>
+<h2 align="left">Hi <img src="https://media3.giphy.com/media/Bu342ERrfYxzTjZhZB/giphy.gif?cid=790b761191a3a94c3de0a432c6347ed290f6dbe2f9356ec9&rid=giphy.gif&ct=s" width="35">! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal <img src="https://cm-feira.pt/documents/20142/0/brasao_municipio-stamfeira.png/8f58d473-81a1-23c6-e74a-f78c4e028b7c?t=1533735783716"width="21"></h2>
 
 ### 📊 Stats
 
