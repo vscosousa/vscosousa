@@ -9,7 +9,7 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscosousa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-### 🖥️ Skills
+### 🔧 Tools
   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="42" alt="xd logo"  />
