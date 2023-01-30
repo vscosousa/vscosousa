@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
   <a href="https://discordapp.com/users/602956906339762196" target="_blank">
-    <img src='https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png' alt='discord' height='40'>
+    <img src='https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png' alt='discord' height='40'>
  </a>
   </a>
   <a href="https://www.instagram.com/vsco_sousa/" target="_blank">
