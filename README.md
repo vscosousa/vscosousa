@@ -65,7 +65,7 @@
     <a href="https://github.com/LeinBurst" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile" style="text-decoration: none;" />
 
-### 🎶 Currently Playing
+### 🎶 Currently Listening To
   
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zoz399pn4owmmps88h8y03qpl&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
 
