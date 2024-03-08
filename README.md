@@ -12,58 +12,46 @@
 ### 🔧 Tools
   
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="42" alt="xd logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" width="42" alt="premierepro logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" style="text-decoration: none;" />
 
 ### 📧 Connect with me
 
-  </a>
   <a href="mailto:vscosousa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="text-decoration: none;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="text-decoration: none;" /></a>
   <a href="https://www.linkedin.com/in/vscosousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="text-decoration: none;" />
-    </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="text-decoration: none;" /></a>
   <a href="https://discordapp.com/users/602956906339762196" target="_blank">
-    <img src='https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png' alt='discord' height='40' style="text-decoration: none;" />
- </a>
-  </a>
+    <img src='https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png' alt='discord' height='40' style="text-decoration: none;" /></a>
   <a href="https://www.instagram.com/vsco_sousa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="text-decoration: none;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="text-decoration: none;" /></a>
   <a href="https://twitter.com/vsco_sousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="text-decoration: none;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="text-decoration: none;" /></a>
   <a href="https://www.facebook.com/vscosousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="text-decoration: none;" />
-  </a>
-   </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="text-decoration: none;" /></a>
   <a href="https://open.spotify.com/user/zoz399pn4owmmps88h8y03qpl?si=d7a2401e230946d7" target="_blank">
-    <img src='https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png?v=637903118310000000' alt='spotify' height='40' style="text-decoration: none;" />
- </a>
+    <img src='https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png?v=637903118310000000' alt='spotify' height='40' style="text-decoration: none;" /></a>
 <br clear="both">
 
 ### 💩 Some of my friends
 
 </a>
   <a href="https://github.com/ReyFow" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Rafael profile" style="text-decoration: none;" />
-  
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Rafael profile" style="text-decoration: none;" /></a>
   <a href="https://github.com/joaopinto15" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="Joao profile" style="text-decoration: none;" />
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="Joao profile" style="text-decoration: none;" /></a>
     <a href="https://github.com/LeinBurst" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile" style="text-decoration: none;" />
+      <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile" style="text-decoration: none;" /></a>
 
 ### 🎶 Currently Listening To
   
