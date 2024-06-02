@@ -3,16 +3,16 @@
 
 ### 📊 Stats
 
-<a href="https://github.com/vscosousa/vscosousa">
-  <img   align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vscosousa's Stats" />
-<a href="https://github.com/vscosousa/vscosousa">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscosousa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
+</picture>
 
 ### 🔧 Tools
   
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" style="text-decoration: none;" />
+  <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" style="text-decoration: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo" style="text-decoration: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" style="text-decoration: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="text-decoration: none;" />
@@ -23,7 +23,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="text-decoration: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="text-decoration: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" style="text-decoration: none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" style="text-decoration: none;" /-->
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,c,html,css,java,py,r,maven,ps,pr,xd,mysql&perline=5" />
+  </a>
+  </p>
 
 ### 📧 Connect with me
 
