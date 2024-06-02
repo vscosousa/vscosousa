@@ -50,8 +50,11 @@
     <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Rafael profile" style="text-decoration: none;" /></a>
   <a href="https://github.com/joaopinto15" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="Joao profile" style="text-decoration: none;" /></a>
-    <a href="https://github.com/LeinBurst" target="_blank">
+  <a href="https://github.com/LeinBurst" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile" style="text-decoration: none;" /></a>
+  <a href="https://github.com/sofiamariinho" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/98525154?v=4" height="40" alt="Sofia profile" style="text-decoration: none;" /></a>
+    
 
 ### 🎶 Currently Listening To
   
