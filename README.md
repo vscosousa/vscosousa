@@ -26,9 +26,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" style="text-decoration: none;" /-->
 
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,c,html,css,java,py,r,maven,ps,pr,xd,mysql&perline=5" />
-  </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,maven,ps,pr,xd,mysql&perline=9" />
+    </a>
+  </p>
+
+### 💻 Skills
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,html,css,java,py,r&perline=6" />
+    </a>
   </p>
 
 ### 📧 Connect with me
