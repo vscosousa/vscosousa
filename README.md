@@ -4,8 +4,8 @@
 ### 📊 Stats
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&dithering=true&include_all_commits=true&hide=avatar">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
+  <source media="(prefers-color-scheme: light)" srcset="https://git-stats-pied.vercel.app/api/github-stats?username=vscosousa&dithering=true&include_all_commits=true&hide=avatar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-pied.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
 </picture>
 
