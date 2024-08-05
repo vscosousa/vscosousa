@@ -1,7 +1,11 @@
 <div align="center">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=auto&reversal=true&textBg=false&section=header"/>
+  
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%A4%A0!+My+name+is+Vasco+Sousa.;I'm+a+software+engineering+student+at+ISEP.;Welcome+to+my+profile+and+feel+free+to+contact+me." alt="Typing SVG" /></a>
 </h2>
+
 
 ### 📊 Stats
 
@@ -68,4 +72,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vscosousa/vscosousa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vscosousa/vscosousa/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=auto&reversal=true&textBg=false&section=footer"/>
 </div>
