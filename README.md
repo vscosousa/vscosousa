@@ -5,12 +5,10 @@
 
 ### 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true" />
-</a>
+</div>
 
 ### 🔧 Tools
 
