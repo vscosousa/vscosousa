@@ -1,35 +1,16 @@
 <div align="center">
-<h2 align="left">Hi <img src="https://media3.giphy.com/media/Bu342ERrfYxzTjZhZB/giphy.gif?cid=790b761191a3a94c3de0a432c6347ed290f6dbe2f9356ec9&rid=giphy.gif&ct=s" width="35">! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal <img src="https://cm-feira.pt/documents/20142/0/brasao_municipio-stamfeira.png/8f58d473-81a1-23c6-e74a-f78c4e028b7c?t=1533735783716"width="21"></h2>
+<h2 align="center">Hi! My name is Vasco and I'm a software engineering student at ISEP from Santa Maria da Feira, Portugal <img src="https://cm-feira.pt/documents/20142/0/brasao_municipio-stamfeira.png/8f58d473-81a1-23c6-e74a-f78c4e028b7c?t=1533735783716"width="21"></h2>
 
 ### 📊 Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&include_all_commits=true" />
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true" />
+</a>
 
 ### 🔧 Tools
-  
-  
-  <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="text-decoration: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" style="text-decoration: none;" /-->
 
   <p align="center">
     <a href="https://skillicons.dev">
