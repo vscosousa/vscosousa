@@ -3,10 +3,16 @@
 
 ### 📊 Stats
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://git-stats-pied.vercel.app/api/github-stats?username=vscosousa&dithering=true&include_all_commits=true&hide=avatar">
-  <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-pied.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=vscosousa&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true" />
 </picture>
 
 ### 🔧 Tools
