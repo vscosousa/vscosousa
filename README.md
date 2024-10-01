@@ -59,6 +59,8 @@
       <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile" style="text-decoration: none;" /></a>
   <a href="https://github.com/sofiamariinho" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/98525154?v=4" height="40" alt="Sofia profile" style="text-decoration: none;" /></a>
+  <a href="https://github.com/joaohcpereiraa" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/116186623?v=4" height="40" alt="Jonas profile" style="text-decoration: none;" /></a>
     
 
 ### 🎶 Currently Listening To
