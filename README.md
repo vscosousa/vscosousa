@@ -10,8 +10,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark&include_all_commits=true&title_color=fff" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true&title_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true" />
 </div>
 
 ### 🔧 Tools
