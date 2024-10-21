@@ -10,9 +10,10 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vscosousa&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true" />
+    <img src="https://streak-stats.demolab.com?user=vscosousa&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200" />
+    <img height="200" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true" />
 </div>
+
 
 ### 🔧 Tools
 
