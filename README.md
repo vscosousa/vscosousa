@@ -10,7 +10,7 @@
 ### 📊 Stats
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=vscosousa&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="190" />
+  <img src="https://streak-stats.demolab.com?user=vscosousa&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="190" />
   <img height="190" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscosousa&layout=compact&theme=dark&langs_count=8&card_width=320&include_all_commits=true" />
 </div>
 
