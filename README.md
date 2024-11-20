@@ -11,9 +11,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vscosousa&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscosousa&layout=compact&theme=dark&border_radius=5&langs_count=8" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscosousa&layout=compact&theme=dark&border_radius=5&langs_count=8&exclude_repo=" alt="Top Languages" height="190" />
 </div>
-
 
 ### 🔧 Tools
 
