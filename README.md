@@ -31,22 +31,22 @@
   </p>
 
 ### 📧 Connect with me
-
-  <a href="mailto:vscosousa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="text-decoration: none;" /></a>
-  <a href="https://www.linkedin.com/in/vscosousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="text-decoration: none;" /></a>
-  <a href="https://discordapp.com/users/602956906339762196" target="_blank">
-    <img src='https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png' alt='discord' height='40' style="text-decoration: none;" /></a>
-  <a href="https://www.instagram.com/vsco_sousa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="text-decoration: none;" /></a>
-  <a href="https://twitter.com/vsco_sousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="text-decoration: none;" /></a>
-  <a href="https://www.facebook.com/vscosousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="text-decoration: none;" /></a>
-  <a href="https://open.spotify.com/user/zoz399pn4owmmps88h8y03qpl?si=d7a2401e230946d7" target="_blank">
-    <img src='https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png' alt='spotify' height='40' style="text-decoration: none;" /></a>
-<br clear="both">
+<p align="center">
+  <a href="mailto:vscosousa@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" style="display:block;" /></a>
+  <a href="https://www.linkedin.com/in/vscosousa">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" style="display:block;" /></a>
+  <a href="https://discordapp.com/users/602956906339762196">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" height="40" style="display:block;" /></a>
+  <a href="https://www.instagram.com/vsco_sousa/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" style="display:block;" /></a>
+  <a href="https://twitter.com/vsco_sousa">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" style="display:block;" /></a>
+  <a href="https://www.facebook.com/vscosousa">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" style="display:block;" /></a>
+  <a href="https://open.spotify.com/user/zoz399pn4owmmps88h8y03qpl">
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" height="40" style="display:block;" /></a>
+</p>
 
 ### 💩 Some of my friends
 
